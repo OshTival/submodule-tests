@@ -1,2 +1,3 @@
 
 submodule-tests
+\test
